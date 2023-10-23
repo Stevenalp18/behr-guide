@@ -211,7 +211,7 @@ export const paintData = [
         flatMatte: 358.0,
         eggshell: 0,
         satin: 368.0,
-        semigloss: 381.0,
+        semigloss: 378.0,
       },
     },
   },
